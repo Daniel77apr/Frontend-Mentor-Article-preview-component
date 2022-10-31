@@ -48,10 +48,10 @@ Users should be able to:
 
 This project turned out to be specially challenging for different reasons, so it was a good excercise that allowed me to learn new things such as: 
 
--svg tag
--How z-index really works
--Scale, translate and rotate properties
--setTimeout() method
+- svg tag
+- How z-index really works
+- Scale, translate and rotate properties
+- setTimeout() method
 
 Each of these concepts are better explained in the links that I included in the [Useful resources](#useful-resources) section.
 
