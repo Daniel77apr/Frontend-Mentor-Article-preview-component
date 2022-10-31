@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-7wgrwgVJda](https://www.frontendmentor.io/solutions/article-preview-component-7wgrwgVJda)
 - Live Site URL: [https://daniel77apr.github.io/Frontend-Mentor-Article-preview-component/](https://daniel77apr.github.io/Frontend-Mentor-Article-preview-component/)
 
 ## My process
